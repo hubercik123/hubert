@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+li{
+    font-size: 22px;
+}
+.frontend{
+    float: left;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.backend{
+    float: right;
+    margin-top: 5%;
+    margin-right: 10%;
+}
